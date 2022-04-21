@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/denislazo1610/pruebatoseeerrors/issues"
   },
-  "homepage": "https://github.com/denislazo1610/pruebatoseeerrors#readme"
+  "homepage": "https://github.com/denislazo1610/pruebatoseeerrors#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
 }
