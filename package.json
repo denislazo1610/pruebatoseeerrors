@@ -1,0 +1,20 @@
+{
+  "name": "pruebatosee-errors",
+  "version": "1.0.0",
+  "description": "",
+  "main": "prueba.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node prueba.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/denislazo1610/pruebatoseeerrors.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/denislazo1610/pruebatoseeerrors/issues"
+  },
+  "homepage": "https://github.com/denislazo1610/pruebatoseeerrors#readme"
+}
